@@ -1,3 +1,3 @@
 # cocoa-talk
 
-CSS hot so much better!
+HTML & CSS are so FUN!
