@@ -8,8 +8,6 @@ function getTime(){
     clockTitle.innerText = `${Hours < 10 ? `0${Hours}` : Hours}:${Minutes < 10 ? `0${Minutes}` : Minutes}`;
     
 }
-
-
 function init(){
     getTime();
     setInterval(getTime, 1000);
